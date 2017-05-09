@@ -1,5 +1,5 @@
 // API EndPoint
-var url =  "http://api.icndb.com/jokes/random";
+var url =  "https://api.icndb.com/jokes/random";
 
 // Get Ordered List Element
 var ol = document.getElementById("jokes");
