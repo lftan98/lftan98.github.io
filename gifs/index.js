@@ -1,5 +1,5 @@
 // API EndPoint
-var url = "http://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC";
+var url = "https://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC";
 
 axios.get(url)
   .then(function(response) {
